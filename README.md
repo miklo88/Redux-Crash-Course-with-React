@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-API Documentation - https://jsonplaceholder.typicode.com/
+
+API Documentation - https://jsonplaceholder.typicode.com/.
+
 ## Available Scripts
 
 In the project directory, you can run:
